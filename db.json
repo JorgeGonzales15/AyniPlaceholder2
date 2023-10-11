@@ -12,7 +12,7 @@
         "id":2,
         "image_url":"https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/2916e98f-14ef-49eb-8674-4195d3a9277b",
         "name": "Col",
-        "description": "Deseo tomates de calidad para el próximo més",
+        "description": "Quiero cajas de col para vender",
         "precio": "13.00",
         "Cantidad": "4 cajas de 40 unidades"
     },
@@ -20,7 +20,7 @@
         "id":3,
         "image_url":"https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/cb9902bb-a4d1-4095-9f03-5460fc29e486",
         "name": "Lechuga",
-        "description": "Deseo tomates de calidad para el próximo més",
+        "description": "Compro lechugas frescas para mi negocio",
         "precio": "35.50",
         "Cantidad": "15 cajas"
     }
